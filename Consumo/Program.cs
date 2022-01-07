@@ -12,7 +12,7 @@ namespace Consumo
         {
             ServiceReference1.ServiciosSoapClient client = new ServiceReference1.ServiciosSoapClient();
 
-            string result = client.HelloWorld();
+            string result = client.Saludar("Pepe");
 
             Console.WriteLine(result);
 
