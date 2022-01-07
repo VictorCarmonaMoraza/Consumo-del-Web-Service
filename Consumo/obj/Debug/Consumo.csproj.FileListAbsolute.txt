@@ -1,0 +1,7 @@
+C:\Users\Victo\Desktop\Proyectos 2022\Master en Web Services con C#\WebService\Consumo\Consumo\bin\Debug\Consumo.exe.config
+C:\Users\Victo\Desktop\Proyectos 2022\Master en Web Services con C#\WebService\Consumo\Consumo\bin\Debug\Consumo.exe
+C:\Users\Victo\Desktop\Proyectos 2022\Master en Web Services con C#\WebService\Consumo\Consumo\bin\Debug\Consumo.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Master en Web Services con C#\WebService\Consumo\Consumo\obj\Debug\Consumo.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Master en Web Services con C#\WebService\Consumo\Consumo\obj\Debug\Consumo.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Master en Web Services con C#\WebService\Consumo\Consumo\obj\Debug\Consumo.exe
+C:\Users\Victo\Desktop\Proyectos 2022\Master en Web Services con C#\WebService\Consumo\Consumo\obj\Debug\Consumo.pdb
