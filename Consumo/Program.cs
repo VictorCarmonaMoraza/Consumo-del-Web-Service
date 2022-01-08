@@ -12,7 +12,11 @@ namespace Consumo
         {
             ServiceReference1.ServiciosSoapClient client = new ServiceReference1.ServiciosSoapClient();
 
-            string result = client.Saludar("Pepe");
+            //Llamada al metodo Saludar
+            //string result = client.Saludar("Pepe");
+
+            //Llamada al metodo de GuardarLog
+            string result = client.GuardarLog("Mensaje de Consola");
 
             Console.WriteLine(result);
 
